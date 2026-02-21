@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **thisheninduwara11@gmail.com**
+- 📫 How to reach me `thisheninduwara11@gmail.com`
 
 - ⚡ Fun fact **Thizzz**
 
