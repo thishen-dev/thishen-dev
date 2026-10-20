@@ -1,20 +1,74 @@
-<h1 align="center">Hi 👋, I'm Thishen Induwara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+# 👋 Hey, I'm Thishen Induwara!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thishen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thishen-dev" /> </p>
+### 💻 Aspiring Full-Stack Developer | Tech Enthusiast
 
-- 🌱 I’m currently learning **Java**
+🇱🇰 Sri Lanka
 
-- 📫 How to reach me `thisheninduwara11@gmail.com`
+Welcome to my GitHub profile! I'm passionate about software development, creative problem-solving, and building meaningful digital experiences. My goal is to become a full-stack developer and build applications that combine engaging user interfaces with powerful backend functionality.
 
-- ⚡ Fun fact **Thizzz**
+- 💻 Aspiring Full-Stack Developer
+- 🌐 Interested in frontend and backend development
+- 🛠️ Passionate about software development and technology
+- 🤝 Open to collaborating on interesting projects
+- 📫 Reach me at **thisheninduwara11@gmail.com**
+- ⚡ Fun fact: I enjoy turning creative ideas into digital experiences!
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🛠️ Technologies & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/Thishen Induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Thishen Induwara" height="30" width="40" /></a>
-<a href="https://fb.com/Thishen Induwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Thishen Induwara" height="30" width="40" /></a>
-<a href="https://instagram.com/thish___z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thish___z" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="Technologies and tools" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## 🏆 Certifications & Achievements
+
+<p align="left">
+  <a href="https://github.com/skills">
+    <img src="https://img.shields.io/badge/GitHub%20for%20Beginners-Achievement-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub for Beginners" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thishen-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Thishen's GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thishen-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thishen-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/thishen-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:thisheninduwara11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/thish___z/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Dream big. Build consistently. Keep creating."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
