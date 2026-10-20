@@ -20,17 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=thishen-dev&label=Profile%20Views&color=0077B5&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/thishen-dev">
-    <img src="https://img.shields.io/badge/GitHub-thishen--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="mailto:thisheninduwara11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thishen-induwara-97971b363">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated divider"/>
 
